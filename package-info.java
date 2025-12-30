@@ -1,1 +1,1 @@
-package Workshop7;
+package studentmanagement;
